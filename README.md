@@ -10,7 +10,7 @@ This project is a real-time computer vision application designed to detect human
 ![Hareket Algılama Demosu](hareket-ve-dusme-tespit/image0.png)
 
 <!-- Örnek 2: image1.png'yi göstermek için -->
-![Hareket Algılama Demosu](hareket-ve-dusme-tespit/image1.png)
+![Hareket Algılama Demosu](hareket-ve-dusme-tespit/image3.png)
 ## Tech Stack
 - **Language:** Python
 - **Libraries:** OpenCV, NumPy
